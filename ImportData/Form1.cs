@@ -15,6 +15,7 @@ namespace ImportData
 {
     public partial class Form1 : Form
     {
+    	//12345
         //Data Source=10.1.0.68,1304;Initial Catalog=emrxk;Persist Security Info=True;User ID=newtouch_login;Password=newtouch_login_ps;Connect Timeout=900000
 
         //Data Source=10.1.0.109\newtouch;Initial Catalog=SpecialDiseaseDB;Persist Security Info=True;User ID=newtouch;Password=!newtouch123;Connect Timeout=900000
